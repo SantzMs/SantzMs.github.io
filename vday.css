@@ -39,9 +39,9 @@ body {
     display: none;
 }
 .front_text, .inside_text{
-    color: #A60657;
+    color: #b12b77;
     font-family: 'Brush Script MT', cursive;
-    font-size: 24px;
+    font-size: 15px;
 }
 
 .front_card {
