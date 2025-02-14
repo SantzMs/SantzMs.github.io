@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="vday.css">
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Valentines Day 2025</title>
+    </head>
+    <body>
+    <div class="valentines_card">
+        <div class="front_card">
+            <img src="baloon_heart.jpg" class="front_img">
+            <div class="front_text">
+            <h3>Uma simples mensagem para a dona dos meus mais bonitos sorrisos...</h3>
+            </div>    
+        </div>
+        <div class="inside_card">
+            <img src="https://gifman.net/wp-content/uploads/2019/06/ursinho-fofo-apaixonado.gif" class="inside_img">
+            <div>
+                <audio controls>
+                    <source src="Meditation.mp3" type="audio/mp3">
+                  </audio>  
+            </div>
+            <div class="inside_text">
+                <h4>Queria te lembrar do quão você é incrível e especial. Dona dos meus sorrisos mais sinceros.</h4>
+                <h3>Feliz dia de São Valetim, repleto de carinho, felicidade e da mesma doçura que você me traz!</h3>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>
