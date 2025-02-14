@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="vday.css">
-<!DOCTYPE html>
 <html>
     <head>
         <title>Valentines Day 2025</title>
